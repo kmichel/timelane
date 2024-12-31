@@ -5,7 +5,7 @@
 //! numbered marks. The crate implements scaler functions to convert a mark in
 //! one lane into a mark in another lane.
 //!
-//! For instance, mark 1 in the month lane is mark 1 is the day lane, mark 2 in
+//! For instance, mark 1 in the month lane is mark 1 in the day lane, mark 2 in
 //! the month lane is mark 32 in the day lane.
 //!
 //! [`Mark`] values are signed integers.

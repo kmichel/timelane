@@ -1,6 +1,7 @@
 [package]
 authors = ["Kevin Michel"]
 description = "Convert between nanoseconds, seconds, days, years... in const."
+documentation = "https://docs.rs/timelane/0.1.0/timelane/"
 edition = "2021"
 keywords = ["date", "time", "const"]
 license = "MIT OR Apache-2.0"
