@@ -1,0 +1,12 @@
+[package]
+authors = ["Kevin Michel"]
+description = "Convert between nanoseconds, seconds, days, years... in const."
+edition = "2021"
+keywords = ["date", "time", "const"]
+license = "MIT OR Apache-2.0"
+name = "timelane"
+readme = "README.md"
+repository = "https://github.com/kmichel/timelane"
+version = "0.1.0"
+
+[dependencies]
